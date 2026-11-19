@@ -1,0 +1,15 @@
+.card{
+	color: red;
+}
+
+figcaption{
+	color: lightgreen;
+}
+body{
+    font-family: 'Gill Sans', sans-serif;
+    color:rgb(189, 239, 6);
+    background-color: blueviolet;
+}
+h1,h2,h3,h4{
+    background-color: rgb(115, 216, 166);
+}
