@@ -13,3 +13,7 @@ body{
 h1,h2,h3,h4{
     background-color: rgb(115, 216, 166);
 }
+a{
+    color: black;
+    text-decoration: underline;
+}
